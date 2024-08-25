@@ -9,11 +9,6 @@
 
 In the world of web development, where style meets practicality, we've got something special: Spike Bootstrap Admin Dashboard. This isn't just your regular admin template; it's a game-changer for how you work online. Let’s dive into what makes Spike so cool, keeping in mind that it’s powered by Bootstrap 5 – the big name in responsive design these days.
 
-## Contact 💌
-
-- Email: [Ifulxploit@gmail.com](mailto:yusronwirawan14@gmail.com)
-- Whatsapp: [083871259489](https://wa.me/6282114375687)
-
 ## Key Features 🗝️
 
 - **Choose Your Style**: 5 Dashboard Layouts
